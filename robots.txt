@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a3f-dev.github.io/snippets-xqhuum/sitemap.xml
